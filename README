@@ -1,0 +1,39 @@
+Desktop Drawers
+
+What is it?
+
+Desktop drawers gives you easy access to folders that you
+use a lot. I use it to keep track of things I need to do, files I
+should work on etc.
+You can open and close the drawers to make them take less
+space. Single click a file to open it, and you can drag and drop
+files to place them in the folders.
+It's a replicant, so you can place it on the Desktop, for example.
+
+
+By who?
+
+Mikael Eiman, mikael@eiman.tv
+
+
+Requirements?
+
+Zeta RC3
+
+
+Source?
+
+Included.
+
+
+License?
+
+BSD.
+
+
+Thanks?
+
+Source based on QueryWatcher by Michael Armida, but there's not
+a lot of the original source left. Thanks anyway :)
+
+QueryWatcher URL: http://www.bebits.com/app/3420
